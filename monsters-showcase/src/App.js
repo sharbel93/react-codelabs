@@ -28,6 +28,7 @@ class App extends React.Component {
               .includes(searchField.toLowerCase()));
     return (
         <div className="App">
+            <h1> Monsters Rolodex </h1>
             {/* props === placeholder and handleChange */}
             <SearchBox
                 placeholder='search monsters'
