@@ -19,6 +19,8 @@ class App extends React.Component {
         .then(users => this.setState({ monsters: users }));
   }
 
+  handleChange = (e) => this.setState({ searchField: e.target.value });
+
   render() {
       const { monsters, searchField } = this.state;
       const filteredMonsters = monsters
@@ -29,7 +31,8 @@ class App extends React.Component {
             {/* props === placeholder and handleChange */}
             <SearchBox
                 placeholder='search monsters'
-                handleChange={e => this.setState({ searchField: e.target.value })}
+                // handleChange={e => this.setState({ searchField: e.target.value })}
+                handleChange={this.handleChange}
             />
 
           {/* props === monsters */}
