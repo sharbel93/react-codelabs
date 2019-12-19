@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-codelabs/static/css/main.54d84da1.chunk.css",
+    "main.js": "/react-codelabs/static/js/main.7f9b8779.chunk.js",
+    "main.js.map": "/react-codelabs/static/js/main.7f9b8779.chunk.js.map",
+    "runtime-main.js": "/react-codelabs/static/js/runtime-main.7eab4319.js",
+    "runtime-main.js.map": "/react-codelabs/static/js/runtime-main.7eab4319.js.map",
+    "static/js/2.13479aff.chunk.js": "/react-codelabs/static/js/2.13479aff.chunk.js",
+    "static/js/2.13479aff.chunk.js.map": "/react-codelabs/static/js/2.13479aff.chunk.js.map",
+    "index.html": "/react-codelabs/index.html",
+    "precache-manifest.c84d498bc75eb3a44c76b97d8763ea76.js": "/react-codelabs/precache-manifest.c84d498bc75eb3a44c76b97d8763ea76.js",
+    "service-worker.js": "/react-codelabs/service-worker.js",
+    "static/css/main.54d84da1.chunk.css.map": "/react-codelabs/static/css/main.54d84da1.chunk.css.map",
+    "static/js/2.13479aff.chunk.js.LICENSE": "/react-codelabs/static/js/2.13479aff.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7eab4319.js",
+    "static/js/2.13479aff.chunk.js",
+    "static/css/main.54d84da1.chunk.css",
+    "static/js/main.7f9b8779.chunk.js"
+  ]
+}
