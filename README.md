@@ -15,3 +15,6 @@ This is a repository that has projects built by react and other technologies jus
 [CSS-Grid resource1](https://css-tricks.com/snippets/css/complete-guide-grid/) [resource 2](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 [React class Components](https://reactjs.org/docs/react-component.html)
+
+##### link to the project demo [Monsters-showcase](https://sharbel93.github.io/react-codelabs/)
+
