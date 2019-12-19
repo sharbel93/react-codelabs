@@ -7,7 +7,11 @@ This is a repository that has projects built by react and other technologies jus
 
 ### `Links`
 [Event binding in react](https://reactjs.org/docs/handling-events.html)
+
 [React Events](https://reactjs.org/docs/events.html)
+
 [React component setState document](https://reactjs.org/docs/react-component.html#setstate)
+
 [CSS-Grid resource1](https://css-tricks.com/snippets/css/complete-guide-grid/) [resource 2](https://css-tricks.com/snippets/css/complete-guide-grid/)
-[React class Components] (https://reactjs.org/docs/react-component.html)
+
+[React class Components](https://reactjs.org/docs/react-component.html)
